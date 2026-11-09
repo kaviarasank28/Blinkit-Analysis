@@ -5,6 +5,7 @@ Blinkit Analysis
 To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
 
 2. Short descripton
+   
 1.KPI’s Requirements
    1.Total Sales: The overall revenue generated from all items sold
    2.Average Sales: The average revenue per sale.
